@@ -1,0 +1,10 @@
+DİCE KATSAYISI BENZERLİĞİ
+
+1) Bi-gram denilen bir yöntemle kelimeleri ikişerli harrflere ayırarak ikş ayrı dizi oluşturuyoruz.
+
+bilişim= bi il li iş şi im
+bilim=bi il li im
+
+2) Daha sonra bu iki dizenin ortak elemanlarını 2 ile çarpıp iki dizenin toplamına bölüyoruz.
+
+   DSC=2*|X ∩ Y| / (|X|+|Y|)
